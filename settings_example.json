@@ -1,0 +1,19 @@
+{
+    "mysql":{
+        "host": "localhost",
+        "database": "MySQL_Database_Name",
+        "user": "MySQL_Username",
+        "password": "MySQL_Password"
+    },
+    "express":{
+        "port": 3000,
+        "cookie_session_name": "YourCookieSessionName",
+        "cookie_secret": "ARandomStringOfYourChoiceGoesHere"
+    },
+    "cryptography":{
+        "encryption" : "sha1",
+        "iterations" : 100,
+        "length" : 32,
+        "salt": "at_least_16_bytes"
+    }
+}

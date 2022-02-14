@@ -1,0 +1,19 @@
+{
+  "name": "site-login",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "akira-nakamoto",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cookie-session": "^2.0.0",
+    "express": "^4.17.2",
+    "mysql": "^2.18.1",
+    "pbkdf2": "^3.1.2"
+  }
+}

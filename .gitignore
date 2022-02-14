@@ -1,0 +1,4 @@
+node_modules/
+createdAccounts/
+settings.json
+package-lock.json
